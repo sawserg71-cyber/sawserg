@@ -1,6 +1,6 @@
 # Привет! 👋
 
-Меня зовут **Сергей Савченко** (Sergey Savtchenko). Живу в Северодвинске, Россия.
+Меня зовут **Сергей Савченко**. Живу в Северодвинске, Россия.
 
 ## Чем занимаюсь
 
@@ -14,7 +14,7 @@
 
 ---
 
-## About me
+## About me 👋
 
 Hi! My name is **Sergey Savtchenko**. I live in Severodvinsk, Russia.
 
