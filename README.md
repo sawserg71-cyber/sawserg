@@ -14,16 +14,16 @@
 
 ---
 
-## About me 👋
+# About me 👋
 
 Hi! My name is **Sergey Savtchenko**. I live in Severodvinsk, Russia.
 
-### What I do
+## What I do
 
 - **Software development** — my own business (sole proprietorship).
 - **1C products** — sales, implementation and support. 1C is a widely used Russian business automation platform.
 - **Advertising services** — an additional line of work.
 
-### About this repository
+## About this repository
 
 This is my public "business card" on GitHub. Work and test projects live in my private repositories.
