@@ -20,7 +20,7 @@ Hi! My name is **Sergey Savtchenko**. I live in Severodvinsk, Russia.
 
 ### What I do
 
-- **Software development** — my own business (sole proprietor, "ИП" in Russia).
+- **Software development** — my own business (sole proprietorship).
 - **1C products** — sales, implementation and support. 1C is a widely used Russian business automation platform.
 - **Advertising services** — an additional line of work.
 
